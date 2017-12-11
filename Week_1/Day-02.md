@@ -6,21 +6,21 @@ title: Day-02
 
 ##第2天 html  
 ###TODO
-- [x]1、无序列表
-- [x]2、有序列表
-- [x]3、定义列表
-- [x]6、表格基础
-- [x]7、合并单元格
-- [x]8、三个划分区域的语义标签
-- [x]10、input标签
-- [x]9、form标签	 
-- [x]11、单行文本框
-- [x]13、密码框
-- [x]14、单选框
-- [x]15、多选框
-- [x]16、文本域
-- [x]18、按钮
-- [x]17、下拉菜单
+- [x] 1、无序列表
+- [x] 2、有序列表
+- [x] 3、定义列表
+- [x] 6、表格基础
+- [x] 7、合并单元格
+- [x] 8、三个划分区域的语义标签
+- [x] 10、input标签
+- [x] 9、form标签	 
+- [x] 11、单行文本框
+- [x] 13、密码框
+- [x] 14、单选框
+- [x] 15、多选框
+- [x] 16、文本域
+- [x] 18、按钮
+- [x] 17、下拉菜单
 
 ###Contents  
 * 1、无序列表  
@@ -47,23 +47,23 @@ title: Day-02
 (tel-time-url-week)	 
 * 9、form标签	 
 <form></form>  
-* 11、单行文本框
+* 11、单行文本框  
 <input type="text">  
-* 13、密码框
+* 13、密码框  
 <input type="password">  
-* 14、单选框
+* 14、单选框  
 <input type="radio">
 (name相同，value不同)     
-* 15、多选框
+* 15、多选框  
 <input type="checkbox">
 (name相同，value不同)  
-* 16、文本域
+* 16、文本域  
 <input type="textarea">
 (rows="10" cols="20")  
-* 18、按钮
+* 18、按钮  
 <input type="button">  
-* 17、下拉菜单
-<select name="">
-<option value="">
+* 17、下拉菜单  
+<select name=""> 
+<option value=""> 
 </select>
 [表单](http://www.runoob.com/html/html-forms.html)
