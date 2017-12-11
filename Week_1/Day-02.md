@@ -47,23 +47,23 @@ title: Day-02
 (tel-time-url-week)	 
 * 9、form标签	 
 <form></form>  
-* 11、单行文本框  
+* 11、单行文本框    
 <input type="text">  
-* 13、密码框  
+* 13、密码框     
 <input type="password">  
-* 14、单选框  
+* 14、单选框    
 <input type="radio">
 (name相同，value不同)     
-* 15、多选框  
+* 15、多选框    
 <input type="checkbox">
 (name相同，value不同)  
-* 16、文本域  
+* 16、文本域     
 <input type="textarea">
 (rows="10" cols="20")  
-* 18、按钮  
+* 18、按钮    
 <input type="button">  
-* 17、下拉菜单  
-<select name=""> 
-<option value=""> 
+* 17、下拉菜单     
+<select name="">   
+<option value="">  
 </select>
 [表单](http://www.runoob.com/html/html-forms.html)
