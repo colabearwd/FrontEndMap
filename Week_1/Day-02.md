@@ -48,20 +48,20 @@ title: Day-02
 * 9、form标签	 
 <form></form>  
 * 11、单行文本框    
-<input type="text">  
+<input type="text">    
 * 13、密码框     
-<input type="password">  
+<input type="password">    
 * 14、单选框    
 <input type="radio">
-(name相同，value不同)     
+(name相同，value不同)         
 * 15、多选框    
 <input type="checkbox">
-(name相同，value不同)  
+(name相同，value不同)     
 * 16、文本域     
 <input type="textarea">
-(rows="10" cols="20")  
+(rows="10" cols="20")     
 * 18、按钮    
-<input type="button">  
+<input type="button">     
 * 17、下拉菜单     
 <select name="">   
 <option value="">  
